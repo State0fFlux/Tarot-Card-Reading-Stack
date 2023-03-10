@@ -1,9 +1,7 @@
 Required Files:
 TarotReading.java
 Card.java
-
-Optional Files:
-Major arcana deck (TheFool.java, TheMagician.java, etc.)
+Major arcana deck, 18 files total (TheFool.java, TheMagician.java... TheWorld.java)
 
 TarotReading.java (Main)
   This file serves as the main executable code for the tarot reading.
