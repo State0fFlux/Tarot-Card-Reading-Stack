@@ -1,5 +1,5 @@
 /*
- * This defines a class representing the tarot card, "Justice"
+ * This defines a class representing the tarot card, "Justice".
  * @author Brady Manske
  * @version 2023/01/22
  */
