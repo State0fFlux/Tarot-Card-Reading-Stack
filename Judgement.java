@@ -1,9 +1,8 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: Judgement
-
-// This defines a class representing the tarot card, ""
+/*
+ * This defines a class representing the tarot card, "Judgement"
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 public class Judgement extends Card {
 
     // Given a boolean representing card orientation,
