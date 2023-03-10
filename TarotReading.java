@@ -1,13 +1,9 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: Tarot Reading
-
-// This program will conduct tarot readings
-// oriented around a user's past, present, and future
-
-// required files: Card.java, the 22 Major Arcana .java files
-// (TheFool.java, TheMagician.java, etc.)
+/*
+ * This program will conduct tarot readings
+ * oriented around a user's past, present, and future.
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 
 import java.util.*; // for Scanner, Random, & Queue
 
