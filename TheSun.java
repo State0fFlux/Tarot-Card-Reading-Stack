@@ -1,9 +1,8 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: The Sun
-
-// This defines a class representing the tarot card, "The Sun"
+/*
+ * This defines a class representing the tarot card, "The Sun".
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 public class TheSun extends Card {
 
     // Given a boolean representing card orientation,
