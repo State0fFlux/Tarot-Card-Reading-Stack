@@ -1,5 +1,5 @@
 /*
- * This defines a class representing the tarot card, "Death"
+ * This defines a class representing the tarot card, "Death".
  * @author Brady Manske
  * @version 2023/01/22
  */
