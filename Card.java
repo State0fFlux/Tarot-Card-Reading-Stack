@@ -1,9 +1,8 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: Card
-
-// This is a superclass for a standard deck of tarot cards
+/*
+ * This is a superclass for a standard deck of tarot cards.
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 public class Card {
     // declaring field;
     protected boolean upright;
