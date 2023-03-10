@@ -1,9 +1,8 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: Justice
-
-// This defines a class representing the tarot card, "Justice"
+/*
+ * This defines a class representing the tarot card, "Justice"
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 public class Justice extends Card {
 
     // Given a boolean representing card orientation,
