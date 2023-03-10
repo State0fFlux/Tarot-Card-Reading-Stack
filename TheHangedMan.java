@@ -1,9 +1,8 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: The Hanged Man
-
-// This defines a class representing the tarot card, "The Hanged Man"
+/*
+ * This defines a class representing the tarot card, "The Hanged Man".
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 public class TheHangedMan extends Card {
 
     // Given a boolean representing card orientation,
