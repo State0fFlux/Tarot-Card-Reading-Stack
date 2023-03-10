@@ -1,9 +1,8 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: The Hermit
-
-// This defines a class representing the tarot card, "The Hermit"
+/*
+ * This defines a class representing the tarot card, "The Hermit".
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 public class TheHermit extends Card {
 
     // Given a boolean representing card orientation,
