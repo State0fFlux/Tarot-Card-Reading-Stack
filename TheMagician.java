@@ -1,9 +1,8 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: The Magician
-
-// This defines a class representing the tarot card, "The Magician"
+/*
+ * This defines a class representing the tarot card, "The Magician".
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 public class TheMagician extends Card {
 
     // Given a boolean representing card orientation,
