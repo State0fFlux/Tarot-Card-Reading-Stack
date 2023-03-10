@@ -1,5 +1,5 @@
 /*
- * This defines a class representing the tarot card, "Judgement"
+ * This defines a class representing the tarot card, "Judgement".
  * @author Brady Manske
  * @version 2023/01/22
  */
