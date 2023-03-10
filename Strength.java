@@ -1,9 +1,8 @@
-// Brady Manske
-// 1/24/23
-// CS&145
-// Deck of Cards: Strength
-
-// This defines a class representing the tarot card, "Strength"
+/*
+ * This defines a class representing the tarot card, "Strength".
+ * @author Brady Manske
+ * @version 2023/01/22
+ */
 public class Strength extends Card {
 
     // Given a boolean representing card orientation,
